@@ -49,7 +49,7 @@
 background-color: #def3fd;">
 	<div id ="topbar">
 	        <span 
-	        class="menu-item">INDEX</a>	        </span>
+	        class="menu-item">INDEX        </span>
 	        <span
 	         class="menu-item"><a href="#projects">PROJECT</a>
 	        </span>
