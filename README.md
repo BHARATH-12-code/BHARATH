@@ -3,6 +3,7 @@
 
 
 
+
 <html>
 <head>
  	<meta charset="UTF-8">
@@ -49,7 +50,7 @@
 background-color: #def3fd;">
 	<div id ="topbar">
 	        <span 
-	        class="menu-item">INDEX        </span>
+	        class="menu-item">INDEX	        </span>
 	        <span
 	         class="menu-item"><a href="#projects">PROJECT</a>
 	        </span>
@@ -62,7 +63,7 @@ background-color: #def3fd;">
 	<h3 id ="list-heading"> HEllO!!! BHARATH HERE!!!
 	</h3>
 	<div class="logo-wrapper">
-	          <img class="logo-image" src="D:/bharath/core java/java prgms/code.jpg"
+	          <img class="logo-image" src="https://media.istockphoto.com/vectors/programming-banner-coding-best-programming-languages-flat-concept-vector-id1185648198"
 	          alt="Student"/>
 	</div>
 	
@@ -87,8 +88,10 @@ background-color: #def3fd;">
 	     <P>BASIC OF HTML,CSS</P>
 	
 	<div class="thanks-wrapper">
-	          <img class="thanks-image" src="D:/bharath/core java/java prgms/end.jpg"
+	          <img class="thanks-image" src="https://www.tivoliservices.com/wp-content/uploads/2020/03/thank-you-lettering_1262-6963.jpg"
 	          alt="Student"/>
 	</div>
+	
+
 	
 
