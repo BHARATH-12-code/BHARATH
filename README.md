@@ -85,11 +85,10 @@ background-color: #def3fd;">
 	      style="color:red" id="skills"> Skills</a>
 	     <p>BASICS OF C,C++,PYTHON,JAVA</p>
 	     <P>BASIC OF HTML,CSS</P>
-	</ul>
+	
 	<div class="thanks-wrapper">
 	          <img class="thanks-image" src="D:/bharath/core java/java prgms/end.jpg"
 	          alt="Student"/>
 	</div>
 	
-</body>
-</html>
+
