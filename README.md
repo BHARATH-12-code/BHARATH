@@ -88,10 +88,7 @@ background-color: #def3fd;">
 	     <P>BASIC OF HTML,CSS</P>
 	
 	<div class="thanks-wrapper">
-	          <img class="thanks-image" src="https://www.tivoliservices.com/wp-content/uploads/2020/03/thank-you-lettering_1262-6963.jpg"
+	          <img class="thanks-image" src="https://inventionland.com/wp-content/uploads/2015/09/National_Thank_You_Day.png"
 	          alt="Student"/>
 	</div>
 	
-
-	
-
